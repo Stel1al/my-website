@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+
+<h1>Welcome To Animal Population Finder!</h1>
+<p>The Animal Population Finder! This website is created to fufill peoples inquiries in the population of animals their intrested in. We know that the population of the animals we know and love today flucuate lots, so; we update the numbers each year! I hope that this website will fufill your intrests in the very much changing animal populations! </p>
+<h2> Dessert Life</h2>
+<p> 
+<ul>
+<li>Desert Snakes-10,000 </li>
+<li>Camels-40,000,000 </li>
+<li> Dessert-Rabbits-40,000,000 </li>
+<li>Cactus-2000 different kinds(no estimate) </li>
+
+
+<h3> Visit page 2 for Sea Life <h3>
+<a href="">Page 2</a>.
+
+
+
+
+</body>
+</html>
+<header style="font siz; large; text-align: center;">
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+
+<header style=”font-size:large;text-align:center;”>
+<h1> Sea Life </h1>
+<p> Dolphin Population - 6,000,000    Jellyfish- 3000 species  Shark - 1,000,000 </p>
+
+
+<header style=”font-size:large;text-align:center;”>
+<h2>How are there so many different types of jellyfish?. </h2>
+<p>Due to the low number of predators of jellyfish, it leads to the overall abundance of jellyfish in the U.S. </p>
+<img alt= “Jellyfish” 
+src = ‘https://www.google.com/url?sa=i&url=https%3A%2F%2Fshorephysiciansgroup.com%2Fstung-by-a-jellyfish-heres-when-to-make-a-splash-for-urgent-care%2F&psig=AOvVaw0x9RIA3796BWNwX138OvYQ&ust=1726719608271000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDJw4HSy4gDFQAAAAAdAAAAABAE’ />
